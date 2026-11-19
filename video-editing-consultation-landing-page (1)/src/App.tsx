@@ -130,7 +130,7 @@ export default function App() {
         </p>
 
         <p className="relative z-10 text-2xl md:text-3xl font-bold text-white mb-10">
-          💰 <span className="text-purple-400">1 200 грн</span>{" "}
+          💰 <span className="text-purple-400">3000 грн</span>{" "}
           <span className="text-gray-400 text-lg font-normal">/ година</span>
         </p>
 
@@ -342,7 +342,7 @@ export default function App() {
             <div className="absolute -inset-px rounded-3xl bg-gradient-to-br from-purple-500/20 to-blue-500/10 blur-sm -z-10" />
 
             <div className="text-7xl font-black mb-2 bg-gradient-to-r from-purple-400 via-pink-400 to-blue-400 bg-clip-text text-transparent">
-              1 200
+              3000
             </div>
             <div className="text-2xl font-bold text-white mb-1">грн</div>
             <div className="text-gray-400 mb-8">за одну годину консультації</div>
